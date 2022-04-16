@@ -1,0 +1,12 @@
+Increment / Decrement Operator (++,--) - It will increment or decrement the value of variable by 1;
+
+    ++ : Increment value of variable by 1;
+    -- : Decrement value of variable by 1;
+
+Postfix Operator
+    exp++; Operator comes after the variable;
+           First complete all other operators and then increment the value of variable by 1;
+
+Prefix Operator
+    ++exp; Operator come before the variable;
+           First increment the value of variable and then complete all other operations;
