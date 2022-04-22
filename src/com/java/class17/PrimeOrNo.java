@@ -1,6 +1,6 @@
 package com.java.class17;
 import java.util.*;
-public class Hw1 {
+public class PrimeOrNo {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
